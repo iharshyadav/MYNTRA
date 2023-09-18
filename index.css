@@ -10,10 +10,14 @@ html,body{
     /* color: #FFFFFF; */
 }
 
+/* header{
+    position: fixed;
+} */
+
 .navbar{
     display: flex;
     /* background-color: white; */
-    /* position: relative; */
+    /* position: fixed; */
     align-items: center;
     height: 80px;
     border: none;
@@ -51,21 +55,21 @@ html,body{
 }
 
 .search2 i{
-    width: 3vw;
-    margin-left: 7vw;
-    height: 10vh;
-    padding-top: 3vh; 
+    width: 3.2vw;
+    margin-left: 5vw;
+    height: 5.5vh;
+    padding-top: 1.9vh; 
     padding-right: 0.5vw;
-    padding-left: 0.9vw;  
+    padding-left:1vw;  
     background-color: #F5F5F6;
     border-top-left-radius: 3%;
     border-bottom-left-radius: 3%;
-    font-size: 1vw;
+    font-size: 0.9vw;
 }
 
 .search2 input{
-    height:10vh;
-    width: 28vw;
+    height:5.5vh;
+    width: 30vw;
     border: none;
     background-color: #F5F5F6;
     border-top-right-radius: 3%;
